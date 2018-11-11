@@ -1,0 +1,9 @@
+set_io RGB0 39
+set_io RGB1 40
+set_io RGB2 41
+set_io enable_internal_clock 4
+set_io debug_clock 44
+set_io debug_strobe 6
+set_io debug_data 13
+set_io external_reset 18
+set_io external_clock 19
